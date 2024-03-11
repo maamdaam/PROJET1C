@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../ODC/langageC"
+		},
+		{
+			"path": "../projet_c"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"teste.C": "cpp"
+		}
+	}
+}

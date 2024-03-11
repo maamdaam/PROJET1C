@@ -1,0 +1,24 @@
+ Elimane  Gning   1eg
+Fallou    Seck    2fs
+Omar      Diouf   3OD
+Assance   Dieng   4AD
+Awa       Fall    5af
+Modou  gning      6mg
+Marie    Dien     7md
+Mamadou  Diouf    md8
+Aliou    Diallo   ad9
+Assane   Ka       10a
+Mbissane  Diouf   2md
+Amy       Ndour   am1
+Modou     Ndiaye  12mn
+Fatou     Ndiaye  fn2
+Maréme    Diouf   md5
+Awa       Dione   aw1
+Anna      Marone  an4
+Abou      sy      1ab
+Adama     sy      as2
+Abdou     Sy      as3
+Mamadou   sy      ms0
+Matam     sow     ms2
+Fama     sy      fs7
+
